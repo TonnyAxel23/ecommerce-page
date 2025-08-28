@@ -209,4 +209,5 @@ $total_pages = ceil($total / $limit);
     }
   </style>
 </body>
+
 </html>
